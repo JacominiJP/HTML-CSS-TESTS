@@ -1,2 +1,2 @@
 # HTML-CSS-TESTS
-HTML  and CSS Exercises
+HTML/CSS Exerc.
