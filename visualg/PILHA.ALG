@@ -1,14 +1,14 @@
 Algoritmo "semnome"
-// Disciplina   : [Linguagem e LÛgica de ProgramaÁ„o]
+// Disciplina   : [Linguagem e L√≥gica de Programa√ß√£o]
 // Professor   : Antonio Carlos Nicolodi 
-// DescriÁ„o   : Aqui vocÍ descreve o que o programa faz! (funÁ„o)
+// Descri√ß√£o   : Aqui voc√™ descreve o que o programa faz! (fun√ß√£o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 05/03/2026
 Const
     TAM=6
 
 Var
-    vet:vetor[1..TAM] de inteiro
+    vet:vetor[TAM] de inteiro
     i, topo: inteiro
     
     
@@ -16,7 +16,7 @@ Var
     inicio
        se esta_Cheia() entao
           escreval("----------------")
-          escreval("!!EST¡ LOTADA!!")
+          escreval("!!EST√Å LOTADA!!")
           escreval("----------------")
        senao
           topo<- topo+1
